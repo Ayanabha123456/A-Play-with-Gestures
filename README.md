@@ -23,7 +23,7 @@ Sign Language Recognition and Production with Tensorflow and Scikit-learn develo
 # Sign Language Recognition
 It differentiates between various static hand gestures i.e. images, with the help of representative features with the core objective of maximizing the classification accuracy on the testing dataset.
 ## Datasets
-<img src="https://www.researchgate.net/publication/362190853/figure/fig1/AS:1182452760494086@1658930115487/Datasets-ASL-alphabet-ASL-finger-spelling-dataset-Cambridge-dataset-NUS-I-and-II-ISL.ppm" style="display:block;margin:auto;" width="500">
+<img src="https://i.postimg.cc/DZbcMSN6/datasets.png" style="display:block;margin:auto;" width="500">
 
 ## Feature Extraction
 * Hand coordinates
