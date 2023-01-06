@@ -13,7 +13,7 @@ Sign Language Recognition and Production with Tensorflow and Scikit-learn develo
 <img src="https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/tensorflow/images/lockup.svg" width="100">
 <img src="https://mediapipe.dev/images/mediapipe_small.png" width="100">
 <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="40">
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="100">
+<img src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas_mark.svg" width="100">
 <img src="https://numpy.org/images/logo.svg" width="50">
 
 # Prerequisites
